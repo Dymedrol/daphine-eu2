@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "Header",
@@ -157,7 +157,7 @@
           "settings": {
             "text": "<p><a href=\"/collections/sale-1\" title=\"SALE\">SALE SALE SALE</a></p>",
             "target_url_enabled": false,
-            "target_url": "shopify://collections/summer-sale",
+            "target_url": "shopify://collections/black-friday-26",
             "target_referrer_enabled": false,
             "target_referrer": "",
             "target_device_enabled": false,
